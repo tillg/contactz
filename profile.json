@@ -1,0 +1,238 @@
+{
+    "summary": "-\n\nSpecialties: -",
+    "industryName": "Information Technology & Services",
+    "lastName": "Gartner",
+    "locationName": "Germany",
+    "student": false,
+    "geoCountryName": "Germany",
+    "geoCountryUrn": "urn:li:fs_geo: 101282230",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "profilePictureOriginalImage": {
+        "com.linkedin.common.VectorImage": {
+            "artifacts": [
+                {
+                    "width": 480,
+                    "fileIdentifyingUrlPathSegment": "900_1200/profile-originalphoto-shrink_900_1200/0/1516242469968?m=AQLyql1uhDNldAAAAZNeNwiVJTaRO6o28RxjrV320TBHOKX-bjmsNw&e=1732538885&v=beta&t=JvGINKZLKtzIYcjvwnbcYL89qucZx7g6dqPM5bzxZcE",
+                    "expiresAt": 1732538885000,
+                    "height": 238
+                },
+                {
+                    "width": 480,
+                    "fileIdentifyingUrlPathSegment": "450_600/profile-originalphoto-shrink_450_600/0/1516242469910?m=AQK3KGGHYAJkzQAAAZNeNwiVC0ygTPbb5HUyAC2xdbIwDUzSW9ljKg&e=1732538885&v=beta&t=GnP8vQvkxJiZi1iWCYtmSw0ElyEjXJmDzG4LovVNJKM",
+                    "expiresAt": 1732538885000,
+                    "height": 238
+                }
+            ],
+            "rootUrl": "https: //www.linkedin.com/dms/prv/image/v2/C4E04AQHBYtpKvoWg-A/profile-originalphoto-shrink_"
+        }
+    },
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "😀 Till",
+    "profilePicture": {
+        "displayImage": "urn:li:digitalmediaAsset:C4E03AQGu9ifw4jYndw",
+        "originalImage": "urn:li:digitalmediaAsset:C4E04AQHBYtpKvoWg-A"
+    },
+    "entityUrn": "urn:li:fs_profile:ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101282230",
+        "postalCode": "81666"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "de",
+            "postalCode": "81666"
+        }
+    },
+    "headline": "-",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGu9ifw4jYndw/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1516242469576?e=1738195200&v=beta&t=FLxSuMs396dGnBpBZmbhmH4CBa-c9L3XqnywSGOzJHY",
+    "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1516242469564?e=1738195200&v=beta&t=zS2ZA7t6l2UdSRWSK9LieYend7568KHE3RGazSREo6k",
+    "img_238_238": "800_800/profile-displayphoto-shrink_800_800/0/1516242469584?e=1738195200&v=beta&t=7T55PWVVw_Iik_gYmSeDzB_kvmxKk1KXECQuqAY7zwA",
+    "profile_id": "ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI",
+    "member_urn": "urn:li:member:945797",
+    "public_id": "tillgartner",
+    "experience": [
+        {
+            "locationName": "Munich, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI,69672284)",
+            "geoLocationName": "Munich, Germany",
+            "companyName": "mgm technology partners GmbH",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2000
+                }
+            },
+            "description": "mgm technology partners provides services around IT projects covering the entire life cycle: Analysis, Development, Rollout, Support and Project Management. We are experts in the domains of eCommerce, Insurances and the German Public Sector.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Executive Vice President",
+            "companyUrn": "urn:li:fs_miniCompany:72035",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFHekYntLKGCw/company-logo_"
+        },
+        {
+            "locationName": "Vietnam, Da Nang",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI,739642616)",
+            "geoLocationName": "Vietnam, Da Nang",
+            "companyName": "mgm technology partners Vietnam Co Ltd",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2015
+                }
+            },
+            "title": "General Director"
+        },
+        {
+            "locationName": "Prague, The Capital, Czech Republic",
+            "entityUrn": "urn:li:fs_position:(ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI,1069579)",
+            "geoLocationName": "Prague, The Capital, Czech Republic",
+            "geoUrn": "urn:li:fs_geo:106156085",
+            "companyName": "mgm technology partners s.r.o.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2004
+                }
+            },
+            "description": "mgm technology partners s.r.o.is the Czech daughter company of mgm technology partners GmbH in Munich/Germany. We develop custom applications for large enterprises and provide IT consultancy.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Managing Director",
+            "region": "urn:li:fs_region:(cz,8643)",
+            "companyUrn": "urn:li:fs_miniCompany:72035",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFHekYntLKGCw/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI,4157953)",
+            "companyName": "cardXchange",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2001
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 1999
+                }
+            },
+            "description": "cardXchange was a start up offering online linking services. Very much like Plaxo does it today. Unfortunately this start up never started...",
+            "title": "Founder & Co-CEO"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI,18466829)",
+            "companyName": "bäurer GmbH",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2000
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            },
+            "title": "Interims Manager"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI,743792)",
+            "school": {
+                "objectUrn": "urn:li:school:11947",
+                "entityUrn": "urn:li:fs_miniSchool:11947",
+                "active": True,
+                "schoolName": "Technical University of Munich",
+                "trackingId": "XNq+vMfPRSa1KhL3dFzHbg==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 1992
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 1984
+                }
+            },
+            "degreeName": "Dipl. Math.",
+            "schoolName": "Technical University Munich",
+            "fieldOfStudy": "Mathematics",
+            "schoolUrn": "urn:li:fs_miniSchool:11947"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI,26155149)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1983
+                },
+                "startDate": {
+                    "year": 1979
+                }
+            },
+            "degreeName": "Baccalaureat",
+            "schoolName": "Europäische Schule München"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI,51360393)",
+            "schoolName": "Ecole Francaise de Munich"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": [],
+    "skills": [
+        {
+            "name": "Agile Methodologies"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Software Development"
+        },
+        {
+            "name": "Software Project Management"
+        }
+    ],
+    "urn_id": "ACoAAAAOboUBaWyS6RKkO1MU5DGonEcmLW6phUI"
+}
